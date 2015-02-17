@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
   <title>Yo!!!!</title>
+  <link rel="stylesheet" href="css/main.css">
 <head>
 <body>
 </body>

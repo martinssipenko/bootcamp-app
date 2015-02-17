@@ -1,0 +1,20 @@
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
+    background-color: grey;
+}
+
+img {
+  width: 200px;
+  display: block;
+  padding: 30px;
+}
+
+a:hover {
+  color: red;
+}
+
+h1 {
+  font-family: Sans-serif;
+}
